@@ -234,7 +234,7 @@ searchInput.addEventListener('input', function () {
     if (matches.length > 0) {
       var suggestionsHTML = '<ul>';
       matches.forEach(function (match) {
-        suggestionsHTML += '<li>' + match.title + '</li>';
+        suggestionsHTML += '<a href="#popup" id="link1"><li>' + match.title +'</li></a>';
       });
       suggestionsHTML += '</ul>';
       suggestionsBox.innerHTML = suggestionsHTML;
@@ -257,7 +257,5 @@ suggestionsBox.addEventListener('click', function (event) {
     searchInput.value ='';
     suggestionsBox.style.display = 'none';
     var value = Array.from(cardDetails).indexOf(event.target);
-    var section = document.getElementById("popup");
-    section.style.display = "block";
   }
 });
