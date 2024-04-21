@@ -1,79 +1,44 @@
-<!-- PROJECT LOGO -->
-<div align="center">
-  <h1 align="center">Natours</h1>
+# Anon - An eCommerce Website
 
-  <p align="center">
-    It's a travel agency landing page. Here all functionality and animation build with css like navbar, input validation design, card flip, etc.
-    <br />
-    <br />
-    <a href="https://natours-hrsshainik.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/hrshainik/natours/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hrshainik/natours/issues">Request Feature</a>
-  </p>
-</div>
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
+Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+## Demo
 
+![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## Prerequisites
 
-[![Product Name Screen Shot][product-screenshot]](https://natours-hrsshainik.netlify.app/)
+Before you begin, ensure you have met the following requirements:
 
-It's a travel agency landing page. Here all functionality and animation build with css like navbar, input validation design, card flip, etc.
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-<p align="right"><a href="#top">⇧Back To Top</a></p>
+## Installing Anon
 
-### Built With
+To install **Anon**, follow these steps:
 
-* [HTML5](https://www.w3schools.com/html/)
-* [CSS3](https://www.w3schools.com/css/)
-* [Figma](https://figma.com)
+Linux and macOS:
 
-<p align="right"><a href="#top">⇧Back To Top</a></p>
+```bash
+sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+```
 
+Windows:
 
-<!-- CONTRIBUTING -->
-## Contributing
+```bash
+git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+```
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right"><a href="#top">⇧Back To Top</a></p>
-
-
-
-<!-- CONTACT -->
 ## Contact
 
-Habibur Rahman - [@portfoilo](https://hrshainik.me) - hrsshainik@gmail.com
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-Project Link: [https://github.com/hrshainik/natours](https://github.com/hrshainik/natours)
+## License
 
-<p align="right"><a href="#top">⇧Back To Top</a></p>
-
-[product-screenshot]: img/product-showcase.jpg
+This project is **free to use** and does not contains any license.
