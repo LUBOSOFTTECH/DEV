@@ -931,7 +931,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
           align-items: center;
   gap: 10px;
   padding: 15px;
-  border: 1px solid var(--cultured);
+  border: 2px solid var(--cultured);
   -webkit-border-radius: var(--border-radius-md);
           border-radius: var(--border-radius-md);
   scroll-snap-align: start;
@@ -1653,7 +1653,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 
 .product-grid .showcase-title {
-  color: var(--sonic-silver);
+  color: var(--eerie-black);
   font-size: var(--fs-8);
   font-weight: var(--weight-300);
   text-transform: capitalize;
@@ -1918,6 +1918,10 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .blog-card {
   min-width: 100%;
   scroll-snap-align: start;
+  padding: 30px 15px;
+  border: 1px solid var(--cultured);
+  -webkit-border-radius: var(--border-radius-md);
+          border-radius: var(--border-radius-md);
 }
 
 .blog-banner {
