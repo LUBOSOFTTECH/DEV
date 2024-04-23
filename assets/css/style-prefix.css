@@ -931,11 +931,11 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
           align-items: center;
   gap: 10px;
   padding: 15px;
-  border: 2px solid var(--cultured);
+  border: 2px solid var(--salmon-pink);
   -webkit-border-radius: var(--border-radius-md);
           border-radius: var(--border-radius-md);
   scroll-snap-align: start;
-  background-color:var(--light1_cl);
+  background-color:var(--light2_cl);
 }
 
 .category-img-box {
@@ -1922,6 +1922,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
   border: 1px solid var(--cultured);
   -webkit-border-radius: var(--border-radius-md);
           border-radius: var(--border-radius-md);
+          background-color: var(--light1_cl);
 }
 
 .blog-banner {
@@ -2841,7 +2842,7 @@ footer {
   .dropdown-list {
     position: absolute;
     top: 100%;
-    left: 0;
+    left: 10;
     width: 200px;
     background: var(--white);
     padding: 20px 0;
